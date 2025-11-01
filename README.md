@@ -18,4 +18,4 @@
 - Bootstrap 5
 
 ## Скриншоты
-![Главная страница] (screenshots/main-page.png)
+![Главная страница](screenshots/main-page.png)
