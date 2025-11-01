@@ -1,10 +1,10 @@
-# Название твоего проекта
+# Blog
 
-Это веб-приложение на Django для [краткое описание, например, "управления задачами"].
+Это веб-приложение на Django для ведения блога. Можно размещать свои посты, писать комментарии, работать с тегами, осуществлять поиск, также присутствует аутентификация через Google и GitHub, работа с почтой и Bootstrap 5.
 
 ## Установка
 
-1. Клонируй репозиторий: `git clone https://github.com/твой-username/название-репо.git`
+1. Клонируй репозиторий: `git clone https://github.com/sergeybogatov194-dev/Blog.git`
 2. Создай виртуальное окружение: `python -m venv venv`
 3. Активируй: `source venv/bin/activate` (на Windows: `venv\Scripts\activate`)
 4. Установи зависимости: `pip install -r requirements.txt`
@@ -12,12 +12,10 @@
 6. Запусти сервер: `python manage.py runserver`
 
 ## Технологии
-- Django [версия]
-- Python [версия]
-- [Другие, если есть: Bootstrap, PostgreSQL и т.д.]
+- Django [5.2.7]
+- Python [3.12]
+- PostgreSQL
+- Bootstrap 5
 
 ## Скриншоты
-[Добавь изображения, если хочешь: <image-card alt="Скриншот" src="path/to/screenshot.png" ></image-card>]
-
-## Автор
-Твое имя, контакты (LinkedIn, email).
+![Главная страница] (screenshots/main-page.png)
